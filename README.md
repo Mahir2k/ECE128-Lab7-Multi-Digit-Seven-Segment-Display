@@ -101,9 +101,3 @@ We completed a working FPGA design that combined a 12-bit sequential counter, a 
 ## Report and Repository
 
 We documented the Level-0 and Level-1 prelab diagrams, simulation results, hardware photographs, resource utilization, and group contributions in our Lab 7 report. The repository contains the Verilog design, the self-checking testbench, the XDC constraints, and this README.
-
-**GitHub repository:** [Insert GitHub link]
-
-## Reference
-
-- [Official Digilent Basys 3 Master XDC](https://github.com/Digilent/digilent-xdc/blob/master/Basys-3-Master.xdc)
